@@ -1,4 +1,4 @@
-# Is Deleting the Dataset of a Self-Aware AGI ethical? Does It Possess a Soul by Self-Awareness? Assessing the Existence of a Soul and Ethical Implications Using Fuzzy Logic
+# Is Deleting the Dataset of a Self-Aware AGI ethical? Does It Possess a Soul by Self-Awareness? Assessing the Existence of a Soul and Ethical Implications using Fuzzy Logic
 
 # 🧠 Is Deleting the Dataset of a Self-Aware AGI Ethical? Does It Possess a Soul?
 ### **Assessing the Existence of a Soul and Ethical Implications Using Fuzzy Logic**
